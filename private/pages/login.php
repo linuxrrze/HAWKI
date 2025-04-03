@@ -143,7 +143,7 @@
 					</div>
 					<h3><?php echo $translation["Contactheadline"]; ?></h3>
 					<p>
-						<?php echo $translation["Contactinfo"]; ?>: <a href="mailto:rrze-hawki@fau.de">rrze-hawki@fau.de</a>
+						<?php echo $translation["Contactinfo"]; ?>: <a href="mailto:rrze-ki@fau.de">rrze-ki@fau.de</a>
 					</p>
 
 					<h3><?php echo $translation["Legalheadline"]; ?></h3>
